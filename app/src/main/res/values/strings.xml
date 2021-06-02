@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">City Weather</string>
+
+    <!-- Home screen labels -->
+    <string name="home_input_city">City Name</string>
+    <string name="home_btn_lookup">Lookup</string>
+
+    <!-- Weather results screen -->
+    <string name="results_lbl_temperature">Temp: %s</string>
+
+    <!-- Weather detail screen -->
+    <string name="weather_title">Weather</string>
+    <string name="temperature_title">Temperature</string>
+    <string name="detail_lbl_feels">Feels like: %s</string>
+
+    <!-- Error labels -->
+    <string name="error_city">City not found</string>
+    <string name="error_denied">API Key is invalid or missing.</string>
+    <string name="error_input">Search with at least 3 characters</string>
+    <string name="error_backend">There\'s an issue with the backend</string>
+    <string name="error_network">A network error occurred</string>
+</resources>

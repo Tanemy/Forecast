@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="min_margin">8dp</dimen>
+    <dimen name="default_margin">16dp</dimen>
+    <dimen name="row_weather_header_height">60dp</dimen>
+    <dimen name="row_weather_height">55dp</dimen>
+</resources>
